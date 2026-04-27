@@ -2,6 +2,12 @@
 
 A pet care services website built with **HTML5**, **Tailwind CSS**, and **Font Awesome** icons.
 
+## Features
+
+- **Responsive & Scalable:** The webpage is fully scalable and responsive across all screen sizes and devices.
+- **Accessible & Semantic HTML:** Built using semantic HTML tags to ensure high accessibility and better SEO.
+- **Theme-First Approach:** The design utilizes a theme-first approach. By changing the core color variables (e.g., in `variables.css`), you can directly and instantly change the entire visual theme of the website.
+
 ## Quick Start
 
 ### Prerequisites
