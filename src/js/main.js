@@ -1,7 +1,4 @@
-/**
- * Main JavaScript File
- * Project: PIXLOGIX
- */
+
 
 // Import CSS
 import '../css/main.css';
@@ -250,8 +247,6 @@ function initTeamSlider() {
 
 /**
  * Reviews Carousel Functionality
- * Shows 2 review cards at a time on desktop, 1 on mobile.
- * Navigation moves by the number of visible cards.
  */
 function initReviewsCarousel() {
   const slider = document.getElementById('reviewSlider');
@@ -325,8 +320,6 @@ function initReviewsCarousel() {
 
 /**
  * FAQ Accordion Functionality
- * Only one accordion panel remains open at a time.
- * Active item gets border-brand-primary highlight and minus icon.
  */
 function initFAQAccordion() {
   const items = document.querySelectorAll('.faq-item');
